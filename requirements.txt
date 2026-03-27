@@ -1,7 +1,8 @@
 streamlit
-moviepy
+moviepy==1.0.3
 imageio-ffmpeg
 numpy
 torch
 torchaudio
 demucs
+ffmpeg-python
